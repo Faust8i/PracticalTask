@@ -1,0 +1,10 @@
+{
+    "dev": {
+      "driver":   "pg",
+      "user":     "postgres",
+      "password": "1234QWer",
+      "host":     "localhost",
+      "database": "nodejsexam",
+      "port":     "5432"
+    }
+  }
